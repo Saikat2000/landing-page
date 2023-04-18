@@ -15,3 +15,35 @@ h3{
     background-color:#1f2937 ;
     color: #e5e7eb;
 }
+img{
+    width: 250px;
+    height: 250px;
+}
+.intro{
+    display: flex;
+    justify-content: space-around;
+    background-color: #1f2937;
+    padding: 70px 30px;
+    
+}
+.para1{
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight:bolder;
+    margin: 0;
+}
+.para2{
+    font-size: 18px;
+    color: #e5e7eb;
+    margin: 0;
+}
+.sign-up{
+    background-color: #3882f6;
+    color: #e5e7eb;
+    font-size: 18px;
+    border-radius: 10px;
+    border: 0;
+    margin-top: 10px;
+    padding:10px 25px;
+    font-weight:500;
+}
