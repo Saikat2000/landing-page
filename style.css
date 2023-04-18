@@ -1,0 +1,17 @@
+.header{
+    display: flex;
+    justify-content: space-around;
+    background-color: #1f2937;
+}
+.header > *{
+    margin: 20px;
+}
+h3{
+    font-size: 24px;
+    color: #f9faf8;
+}
+.header-button{
+    font-size: 18px;
+    background-color:#1f2937 ;
+    color: #e5e7eb;
+}
