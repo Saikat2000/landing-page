@@ -10,7 +10,7 @@ h3{
     font-size: 24px;
     color: #f9faf8;
 }
-.header-button{
+.header-links{
     font-size: 18px;
     background-color:#1f2937 ;
     color: #e5e7eb;
@@ -46,4 +46,44 @@ img{
     margin-top: 10px;
     padding:10px 25px;
     font-weight:500;
+}
+.random{
+    display:flex;
+    justify-content: center;
+    font-size: 32px;
+    font-weight: bolder;
+    color: #1f2937;
+    margin:40px 10px;
+}
+.info{
+    display: flex;
+    justify-content:center;
+    gap: 55px;
+    padding-top: 20px;
+    padding-bottom: 80px;
+    
+}
+body{ 
+    margin: 0;
+}
+.links{
+    display: flex;
+    gap: 15px;
+}
+.info-image{
+    width: 150px;
+    height:150px;
+    border-radius: 10px;
+    flex:1 0 auto;
+    border: 3px solid #3882f6;
+}
+.information{
+    width: 150px;
+    height:200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
 }
