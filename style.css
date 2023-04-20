@@ -139,4 +139,13 @@ body{
 .out{
     display: flex;
     justify-content: center;
+    margin:35px auto;
+}
+.footer{
+    background-color: #1f2937;
+    color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    padding: 30px 70px;
+    font-size: large;
 }
